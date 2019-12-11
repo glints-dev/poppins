@@ -5,5 +5,9 @@
   "main": "index.css",
   "repository": "https://github.com/glints-dev/poppins",
   "author": "Francis Goh <franciscrispingoh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
