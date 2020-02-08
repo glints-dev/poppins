@@ -15,7 +15,7 @@ To use, simply import the package in your project’s entry file e.g.
 
 `index.js`
 ```js
-import 'glints-poppins'
+import '@glints/poppins';
 ```
 
 # Localization
