@@ -1,6 +1,6 @@
 {
   "name": "@glints/poppins",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Localized Poppins typeface",
   "main": "index.css",
   "repository": "https://github.com/glints-dev/poppins",
