@@ -11,66 +11,78 @@
 /* SVN Poppins - Vietnamese */
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-Light.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-Light.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-Regular.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-Regular.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-Medium.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-Medium.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-SemiBold.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-SemiBold.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-Bold.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-Bold.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/SVN-Poppins-Black.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/SVN-Poppins-Black.woff2") format("woff2"),
+    url("./fonts/woff/SVN-Poppins-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
   unicode-range: var(--vn-unicode-range);
@@ -82,61 +94,73 @@ so that the browser can fallback on it by default.
 This is preferable since it has a smaller file size. */
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Light.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/Poppins-Light.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Regular.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/Poppins-Regular.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Medium.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/Poppins-Medium.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-SemiBold.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/Poppins-SemiBold.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Bold.ttf');
+  font-family: "Poppins";
+  src: url("./fonts/woff2/Poppins-Bold.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
 
 @font-face {
-  font-family: 'Poppins';
-  src: url('./fonts/Poppins-Black.ttf');
+  font-family: "Poppins";
+  src: url("/fonts/woff2/Poppins-Black.woff2") format("woff2"),
+    url("/fonts/woff/Poppins-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-stretch: normal;
+  font-display: swap;
   line-height: normal;
   letter-spacing: normal;
 }
