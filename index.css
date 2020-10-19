@@ -155,8 +155,8 @@ This is preferable since it has a smaller file size. */
 
 @font-face {
   font-family: "Poppins";
-  src: url("/fonts/woff2/Poppins-Black.woff2") format("woff2"),
-    url("/fonts/woff/Poppins-Black.woff") format("woff");
+  src: url("./fonts/woff2/Poppins-Black.woff2") format("woff2"),
+    url("./fonts/woff/Poppins-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-stretch: normal;
